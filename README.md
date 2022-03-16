@@ -1,6 +1,6 @@
 # Lights-on-Park
 
-# Contributors
+## Contributors
 - [Andrea Scalera] (https://www.linkedin.com/in/andrea-scalera-12ab28229/)
 - [Alessia Santamaria] (https://www.linkedin.com/in/alessia-santamaria-b29787151/)
 - [Stefano]()
