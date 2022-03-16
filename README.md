@@ -1,9 +1,11 @@
 # Lights-on-Park
 
 # Contributors
-- Andrea Scalera (https://www.linkedin.com/in/andrea-scalera-12ab28229/)
+- [Andrea Scalera] (https://www.linkedin.com/in/andrea-scalera-12ab28229/)
 - [Alessia Santamaria] (https://www.linkedin.com/in/alessia-santamaria-b29787151/)
 - [Stefano]()
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 # Brief Description
 This is a project about IoT (Internet of Things). The scope of the project is give to citizens to take informations about free slots park and, at the same time, have a good illumination of the sidewalks.
