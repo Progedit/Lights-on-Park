@@ -21,8 +21,8 @@ In a city, like Rome, there are many problems about traffic and parking. We try 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Video Resources
-- [First Video (1:30 minuti)]()
-- [Second Video (3 minuti)]()
-- [Third Video (2 minuti)]()
+- [First Video (1:30 minutes)]()
+- [Second Video (3 minutes)]()
+- [Third Video (2 minutes)]()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
