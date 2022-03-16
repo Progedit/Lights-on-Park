@@ -1,9 +1,9 @@
-# Lights-on-Park
+# Lights on Parking
 
 # Contributors
 - [Andrea Scalera](https://www.linkedin.com/in/andrea-scalera-12ab28229/)
 - [Alessia Santamaria](https://www.linkedin.com/in/alessia-santamaria-b29787151/)
-- [Stefano](https://www.linkedin.com/in/stefano-rucci-74b5b6220/)
+- [Stefano Rucci](https://www.linkedin.com/in/stefano-rucci-74b5b6220/)
 
 <p align="right">(<a href="#Video Resources">back to top</a>)</p>
 
