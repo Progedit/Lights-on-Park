@@ -5,7 +5,7 @@
 - [Alessia Santamaria](https://www.linkedin.com/in/alessia-santamaria-b29787151/)
 - [Stefano]()
 
-<p align="right">(<a href="#Video Resources">back to top</a>)</p>
+<p align="right">(<a href="#VideoResources">back to top</a>)</p>
 
 # Brief Description
 This is a project about IoT (Internet of Things). The scope of the project is give to citizens to take informations about free slots park and, at the same time, have a good illumination of the sidewalks.
@@ -16,4 +16,4 @@ In a city, like Rome, there are many problems about traffic and parking. We try 
 - [Technology] (Technology.md)
 - [Evaluation] (Evaluation.md)
 
-# Video Resources
+# VideoResources
