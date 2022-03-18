@@ -8,6 +8,8 @@ Let’s look at these components in more details.
 ### STM-32 Nucleo Board
 <img src="images/STM-32%20NucleoBoard.jpg" width=55% height=55%>
 STM32 Nucleo-64 board: The STM32 Nucleo-64 board provides an affordable and flexible way for users to try out new concepts and build prototypes by choosing from the various combinations of performance and power consume features, provided by the STM32 microcontroller. It has 1 user LED shared with ARDUINO, 1 user and 1 reset push-buttons, 32.768 kHz crystal oscillator, board connectors and flexible power-supply options.
+<br/>
+<br/>
 The databrief is available here: https://www.st.com/resource/en/data_brief/nucleo-f401re.pdf
 
 ### Ultrasonic Sensor
@@ -23,8 +25,12 @@ The sensor come with 4 pins that correspond:
 Datasheet is available here: https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
 
 ### Movement Sensor
-<img src="images/Movement Sensor.jpg" widht=50% height=50%>
+<img src="images/Movement Sensor.jpg" widht=0.1% height=0.1%>
 HC-SR501 PIR Sensor: HC-SR501 PIR Sensor detects motion by measuring changes in the infrared (heat) levels emitted by surrounding objects. When motion is detected the PIR sensor outputs a high signal on its output pin.
 HC-SR501 PIR Sensor has an adjustable delay before firing and adjustable sensitivity. Runs on 4.5-20V, Digital signal output is High 3.3 V / Low 0V. Sensing range is about 7 meters (100 degree cone). Turning potentiometer clockwise increases sensing range (about 7 meters), on the contrary, sensing range decreases (about 3 meters).
+<br/>
+<br/>
+Datasheet is available here: https://www.robotpark.com/image/data/PRO/91118/31227sc.pdf
+
 ### LED Light
 <img src="images/LED.jpg" width=45% height=45%>
