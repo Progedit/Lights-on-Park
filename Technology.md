@@ -4,6 +4,7 @@ For the software components, we created the main firmware file in Riot OS (it is
 Let’s look at these components in more details.
 
 ## Hardware
+<img src="images/Hardware Components' Schema.jpg" width=85% height=85%>
 
 ### STM-32 Nucleo Board
 <img src="images/STM-32%20NucleoBoard.jpg" width=55% height=55%>
