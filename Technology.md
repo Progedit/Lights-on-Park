@@ -12,6 +12,19 @@ The databrief is available here: https://www.st.com/resource/en/data_brief/nucle
 
 ### Ultrasonic Sensor
 <img src="images/Ultrasonic%20Sensor.jpg" width=45% height=45%>
+Ultrasonic sensor HC-SR04: The HC-SR04 ultrasonic sensor uses sonar to determine distance to an object like bats or dolphins do. It offers excellent non-contact range detection with high accuracy and stable readings in an easy-to-use package. It operates in a distance range going from 2cm to 400 cm. Its operation is not affected by sunlight or black material.
+The sensor come with 4 pins that correspond:
 
+- VCC = +5VDC.
+- Trig = Trigger input of Sensor.
+- Echo = Echo output of Sensor.
+- GND = GND.
+
+Datasheet is available here: https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
+
+### Movement Sensor
+<img src="images/Movement Sensor.jpg" widht=50% height=50%>
+HC-SR501 PIR Sensor: HC-SR501 PIR Sensor detects motion by measuring changes in the infrared (heat) levels emitted by surrounding objects. When motion is detected the PIR sensor outputs a high signal on its output pin.
+HC-SR501 PIR Sensor has an adjustable delay before firing and adjustable sensitivity. Runs on 4.5-20V, Digital signal output is High 3.3 V / Low 0V. Sensing range is about 7 meters (100 degree cone). Turning potentiometer clockwise increases sensing range (about 7 meters), on the contrary, sensing range decreases (about 3 meters).
 ### LED Light
 <img src="images/LED.jpg" width=45% height=45%>
