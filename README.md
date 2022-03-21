@@ -23,7 +23,7 @@ In a city, like Rome, there are many problems about traffic and parking. We try 
 
 ## Video Resources
 - [First Video (1:30 minutes)](https://youtu.be/KGcdonJwBvc)
-- [Second Video (3 minutes)]()
+- [Second Video (3 minutes)](https://www.youtube.com/watch?v=9toniuYq2ZA)
 - [Third Video (2 minutes)](https://youtu.be/Jb_O6WmJaH4)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
