@@ -34,6 +34,7 @@ Datasheet is available here: https://www.robotpark.com/image/data/PRO/91118/3122
 ### LED Light
 <img src="images/LED.jpg" width=45% height=45%>
 
+### How they interact between them: 
 <img src="images/Hardware Component's Schema.png" width=85% height=85%>
 
 ## Software
@@ -41,11 +42,11 @@ RIOT OS: RIOT is a small operating system for networked, memory-constrained syst
 RIOT is based on a microkernel architecture and in constrast to other operating systems with similarly low memory use, it allows applications software programming with the programming language C and C++, also by an experimental API. It has full multithreading and real-time abilities, and also SSL and TLS are supported by popular libraries.
 Riot OS gives us the possibility to create the main file that can be flashed in a big range of boards or simulate the functioning of the software in the terminal.
 
-MQTT-S aggregating gateway:MQTT (MQ Telemetry Transport) is a standard ISO publish-subscribe light messaging protocol that sits on top of TCP/IP. It is designed for situations where low impact is required and where bandwidth is limited. The publish-subscribe pattern requires a messaging broker: the broker is responsible for distributing the messages to the intended clients.
-MQTT-SN is a variation of the protocol intended for embedded systems that are not TCP/IP based.
-
 AWS: AWS IoT Core allows to connect devices to AWS services or to other devices, protect data and interactions, process and perform actions on device data, enable interactions between applications and devices even when they are offline and consequently produce low-cost devices with Alexa integrated.
 
 WebApp: It is a simple web page through which the user can interact with the system. Here you can monitor the situation of an area of the city, seeing how many parking spaces are available in that area.
 
 <img src="images/Software Component's Schema.png" width=85% height=85%>
+
+MQTT-S aggregating gateway:MQTT (MQ Telemetry Transport) is a standard ISO publish-subscribe light messaging protocol that sits on top of TCP/IP. It is designed for situations where low impact is required and where bandwidth is limited. The publish-subscribe pattern requires a messaging broker: the broker is responsible for distributing the messages to the intended clients.
+MQTT-SN is a variation of the protocol intended for embedded systems that are not TCP/IP based.
