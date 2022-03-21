@@ -22,7 +22,7 @@ In a city, like Rome, there are many problems about traffic and parking. We try 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Video Resources
-- [First Video (1:30 minutes)]()
+- [First Video (1:30 minutes)](https://youtu.be/KGcdonJwBvc)
 - [Second Video (3 minutes)]()
 - [Third Video (2 minutes)](https://youtu.be/Jb_O6WmJaH4)
 
