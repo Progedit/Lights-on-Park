@@ -34,7 +34,7 @@ Datasheet is available here: https://www.robotpark.com/image/data/PRO/91118/3122
 ### LED Light
 <img src="images/LED.jpg" width=45% height=45%>
 
-<img src="images/Hardware Components' Schema.jpg" width=85% height=85%>
+<img src="images/Hardware Component's Schema.png" width=85% height=85%>
 
 ## Software
 RIOT OS: RIOT is a small operating system for networked, memory-constrained systems with focus on low-power wireless Internet of Things devices. It is open-source software.
@@ -47,3 +47,5 @@ MQTT-SN is a variation of the protocol intended for embedded systems that are no
 AWS: AWS IoT Core allows to connect devices to AWS services or to other devices, protect data and interactions, process and perform actions on device data, enable interactions between applications and devices even when they are offline and consequently produce low-cost devices with Alexa integrated.
 
 WebApp: It is a simple web page through which the user can interact with the system. Here you can monitor the situation of an area of the city, seeing how many parking spaces are available in that area.
+
+<img src="images/Software Component's Schema.png" width=85% height=85%>
