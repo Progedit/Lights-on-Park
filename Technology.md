@@ -46,7 +46,7 @@ AWS: AWS IoT Core allows to connect devices to AWS services or to other devices,
 
 WebApp: It is a simple web page through which the user can interact with the system. Here you can monitor the situation of an area of the city, seeing how many parking spaces are available in that area.
 
-<img src="images/Software Component's Schema.png" width=85% height=85%>
+<img src="images/Software Components' Schema.png" width=85% height=85%>
 
 MQTT-S aggregating gateway:MQTT (MQ Telemetry Transport) is a standard ISO publish-subscribe light messaging protocol that sits on top of TCP/IP. It is designed for situations where low impact is required and where bandwidth is limited. The publish-subscribe pattern requires a messaging broker: the broker is responsible for distributing the messages to the intended clients.
 MQTT-SN is a variation of the protocol intended for embedded systems that are not TCP/IP based.
