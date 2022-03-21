@@ -1,1 +1,4 @@
 # Evaluation
+The evaluation of the project at this state of development is poor of information due the lack of the prototype, to measure the effective consume of energy and prestations of the network, and the lack of the app to analyze the information by end users point of view.
+
+We expect a low energy power consume and a fast connection for the data ( it's necessary that the network communicates with a good prestations to give information in real time). Also we don't want that the cycle of duties ingraves on battery so we want that the system upgrades the status of the parking a certain number of time.
