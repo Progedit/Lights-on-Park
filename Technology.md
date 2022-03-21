@@ -35,3 +35,7 @@ Datasheet is available here: https://www.robotpark.com/image/data/PRO/91118/3122
 
 ### LED Light
 <img src="images/LED.jpg" width=45% height=45%>
+
+## Software
+RIOT OS: RIOT is a small operating system for networked, memory-constrained systems with focus on low-power wireless Internet of Things devices. It is open-source software.
+RIOT is based on a microkernel architecture and in constrast to other operating systems with similarly low memory use, it allows applications software programming with the programming language C and C++, also by an experimental API. It has full multithreading and real-time abilities, and also SSL and TLS are supported by popular libraries.
