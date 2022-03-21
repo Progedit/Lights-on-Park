@@ -50,3 +50,5 @@ WebApp: It is a simple web page through which the user can interact with the sys
 
 MQTT-S aggregating gateway:MQTT (MQ Telemetry Transport) is a standard ISO publish-subscribe light messaging protocol that sits on top of TCP/IP. It is designed for situations where low impact is required and where bandwidth is limited. The publish-subscribe pattern requires a messaging broker: the broker is responsible for distributing the messages to the intended clients.
 MQTT-SN is a variation of the protocol intended for embedded systems that are not TCP/IP based.
+
+LoRaWAN is one of several protocols developed to define the upper layers of the network. LoRaWAN is a cloud-based MAC (Media Access Control) layer protocol but serves primarily as a network layer protocol for managing communications between LPWAN (Low Power Wide Area Network) gateways 
