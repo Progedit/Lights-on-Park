@@ -16,6 +16,7 @@ In a city, like Rome, there are many problems about traffic and parking. We try 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## More details
+- [2nd Delivery](./2ndDelivery.md)
 - [Concept](./Concept.md)
 - [Technology](./Technology.md)
 - [Evaluation](./Evaluation.md)
