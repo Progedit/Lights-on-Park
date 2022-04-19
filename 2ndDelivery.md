@@ -9,7 +9,8 @@ Initially we had thought of creating a double functionality, both that of smart 
 
 ### 3. Accuracy
 
-### 4. Storyboard
+### 4. Storyboard and personas
+The use of storyboards and personas was wrong, and we had to use them better for identy requirements.
    
 ## Justification For Comments:
 	
