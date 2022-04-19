@@ -15,6 +15,7 @@ The use of storyboards and personas was wrong, and we had to use them better for
 	
 ## Changes
 During the first delivery, several problems arose about how we had set up our project. 
+
 The most relevant changes for the moment are on the place where to install the device and on the functionalities that the project offers: initially we had thought of installing a pole near each parking lot, so as to create a double functionality (smart parking and street lighting), but thinking exclusively about the parking functionality we decided to change our mind and install the device under the ground. This solution is better than the previous one since the positioning of the device below the parking surface provides the safest and most lasting installation over time: in fact, installing this product below ground level is an excellent way to protect the sensor from bad weather and excessive temperature changes, not to mention mechanical shocks and vandalism.
 
 Another point on which we focused is that relating to the search for requirements, based on a form that we sent to possible users, which underlined how much the problem of finding a parking space can be something that needs to be improved, regardless of the area. urban area of which you belong, or where you live / work.
