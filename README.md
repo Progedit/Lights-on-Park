@@ -19,6 +19,8 @@ In a city, like Rome, there are many problems about traffic and parking. We try 
 - [Technology](./Technology.md)
 - [Evaluation](./Evaluation.md)
 
+- [2nd Delivery](2nd Delivery.md)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Video Resources
