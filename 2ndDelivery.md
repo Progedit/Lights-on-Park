@@ -6,6 +6,7 @@
 Initially we had thought of creating a double functionality, both that of smart parking and that of street lighting, but we were advised to focus exclusively on the parking part for the moment.
 
 ### 2. Requirements
+In the first delivery, the project requirements were too general and bland. We did not focus on a particular study area but on huge cities.
 
 ### 3. Accuracy
 
