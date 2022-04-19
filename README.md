@@ -12,6 +12,8 @@ With our group project we are focused about the problems of the cities and in pa
 The scope of the project is give to citizens the possibility to take informations about free parking lots and, at the same time, have a good illumination of the sidewalks.
 In a city, like Rome, there are many problems about traffic and parking. We try to give a solution concerning these problems, building a system composed by two components: one of these is referred to track the empty slots of parking and the other is related to illuminate the sidewalks next to the street. The IoT system that we propose uses two sensors to take informations about cars and pedestrains.
 
+- [2nd Delivery](./2nd Delivery.md)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## More details
@@ -19,7 +21,6 @@ In a city, like Rome, there are many problems about traffic and parking. We try 
 - [Technology](./Technology.md)
 - [Evaluation](./Evaluation.md)
 
-- [2nd Delivery](2nd Delivery.md)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
