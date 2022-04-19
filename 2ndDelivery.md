@@ -1,11 +1,19 @@
-## 2nd Delivery
+# 2nd Delivery
 
-### First Delivery Comments
+## Comments received during the 1st delivery
+
+### 1. Not extend the project and to focus on the parking problem
+
+### 2. Requirements
+
+### 3. Accuracy
+
+### 4. Storyboard
    
-### Justification For Comments:
+## Justification For Comments:
 	
-### Changes
+## Changes
 
-### Technical Work 
+## Technical Work 
 	
-### Missing Functionalities
+## Missing Functionalities
