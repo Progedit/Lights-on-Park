@@ -19,9 +19,11 @@ Communication with the user takes place via a web page / app, which indicates th
 
 ## **Requirements**
 
-We have extrapolated the following requirements from a google form and from the personas and storyboards methods:
+We have extrapolated the following requirements from a google form method that we have submit it to a random people who lives in some kind of situation: a little city, a big city or a suburban area of a city:
 
 - Possibility of giving the citizen a smart way to search for parking spaces.
+<img src="https://github.com/Progedit/Lights-on-Parking/blob/5c958ab9315d6c7418198c67ec9ed35e2f0a14ec/images/Questionnaire/applicazione.png" width=70% height=70%>
+This post is relative to a request about an app that give the possibility to search and find a parking space before that we arrive in a specific zone. Almost ninety percent of the persons give a positive response.
 
 - The driver, with Lights on parking, already knowing where to park, reduces his time inside the car, devoting the time purchased to something else.
 
