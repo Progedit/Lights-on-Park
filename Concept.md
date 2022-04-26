@@ -35,3 +35,7 @@ The requirements of our device are illustrated in the following picture:
 
 <img width="691" alt="Device_Req" src="https://user-images.githubusercontent.com/96829724/165340852-b078c0a8-6396-483a-95a9-902fad7047d0.png">
 
+
+
+
+
