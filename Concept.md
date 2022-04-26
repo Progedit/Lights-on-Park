@@ -36,6 +36,9 @@ This graphic is relative to a request of an new app that give the possibility to
 - Lower consumption of fuel and therefore the reduction of ambiental pollution but also the lower waste of money on fuel.
 
 - Lights on Parking can also benefit the driver's mood. We have found that searching for a parking space is stressful and counterproductive to the vast majority of users. It also affects the driver's punctuality, especially in the workplace.
+<img src="https://github.com/Progedit/Lights-on-Parking/blob/0ec399643da04f97743a4bf577648ad1166d9df4/images/Questionnaire/stress_lavoro_studio.png" width=70% height=70%>
+
+The two previous graphs show that the search for a parking space is stressful for the interviewed users, in the first when you go to work or where you study and in the other when you go out for leisure.
 
 The requirements of our device are illustrated in the following picture:
 
