@@ -23,13 +23,13 @@ We have extrapolated the following requirements from a google form and from the 
 
 - Possibility of giving the citizen a smart way to search for parking spaces.
 
-- The motorist, with Lights on parking, already knowing where to park, reduces his time inside the car, devoting the time purchased to something else.
+- The driver, with Lights on parking, already knowing where to park, reduces his time inside the car, devoting the time purchased to something else.
 
 - The reduction of traffic and congestion.
 
-- Consequence of the previous requirement is the lower consumption of fuel and therefore the reduction of environmental pollution and also the lower waste of money on fuel.
+- Consequence of the previous requirement is the lower consumption of fuel and therefore the reduction of ambiental pollution and also the lower waste of money on fuel.
 
-- Also Lights on Parking can also benefit the driver's mood. We have found that searching for a parking space is stressful and counterproductive to the vast majority of users.
+- Lights on Parking can also benefit the driver's mood. We have found that searching for a parking space is stressful and counterproductive to the vast majority of users.
 
 The requirements of our device are illustrated in the following picture:
 
