@@ -37,6 +37,8 @@ This graphic is relative to a request of an new app that give the possibility to
 
 The next graph is one of the many graphs that tell us how environmental pollution is growing from year to year, reaching historic peaks in recent years.
 
+<img width="642" alt="grafico_emiss_CO2" src="https://user-images.githubusercontent.com/96829724/165388952-a4f9a20f-514c-41ce-87da-ff1c28347187.png">
+
 - Lights on Parking can also benefit the driver's mood. We have found that searching for a parking space is stressful and counterproductive to the vast majority of users. It also affects the driver's punctuality, especially in the workplace.
 
 <img src="https://github.com/Progedit/Lights-on-Parking/blob/0ec399643da04f97743a4bf577648ad1166d9df4/images/Questionnaire/stress_lavoro_studio.png" width=70% height=70%>
