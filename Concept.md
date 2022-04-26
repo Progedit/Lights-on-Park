@@ -42,13 +42,22 @@ This graphic is relative to a request of an new app that give the possibility to
 
 The two previous graphs show that the search for a parking space is stressful for the interviewed users, in the first when you go to work or where you study and in the other when you go out for leisure.
 
-The requirements of our device are illustrated in the following picture:
+
+DEVICE REQUIREMENTS
+
+In the diagram below we show how our device is better than the other two,that are a top video camera installed on the light pole and a pole installed on the sidewalk with an ultrasonic sensor.
 
 <img width="691" alt="Device_Req" src="https://user-images.githubusercontent.com/96829724/165340852-b078c0a8-6396-483a-95a9-902fad7047d0.png">
 
+Our device:
+- Respect the privacy of users.
+- Not exposed to vandalism or bad weather.
+- It does not need frequent maintenance.
+- Not dangerous for pedestrians, cyclists, etc.
+
 The following graph shows that most users prefer an invisible device over a visible one.
 
-<img src="https://github.com/Progedit/Lights-on-Parking/blob/ba7d781e4507ae6c81868ac9a4e1615aa4b70694/images/Questionnaire/stress_uscite.png" width=70% height=70%>
+<img src="https://github.com/Progedit/Lights-on-Parking/blob/0f681f2ffee9e49596297f9472da8affa0392950/images/Questionnaire/tipologia_dispositivo.png" width=70% height=70%>
 
 
 
