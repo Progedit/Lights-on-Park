@@ -33,5 +33,5 @@ We have extrapolated the following requirements from a google form and from the 
 
 The requirements of our device are illustrated in the following picture:
 
-<img width="687" alt="DeviceRequirements" src="https://user-images.githubusercontent.com/96829724/165303713-1e655088-97a2-4cad-9dad-10cfd76d303b.png">
+<img width="691" alt="Device_Req" src="https://user-images.githubusercontent.com/96829724/165340852-b078c0a8-6396-483a-95a9-902fad7047d0.png">
 
