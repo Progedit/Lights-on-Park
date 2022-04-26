@@ -38,7 +38,7 @@ This graphic is relative to a request of an new app that give the possibility to
 - Lights on Parking can also benefit the driver's mood. We have found that searching for a parking space is stressful and counterproductive to the vast majority of users. It also affects the driver's punctuality, especially in the workplace.
 <img src="https://github.com/Progedit/Lights-on-Parking/blob/0ec399643da04f97743a4bf577648ad1166d9df4/images/Questionnaire/stress_lavoro_studio.png" width=70% height=70%>
 
-<img src="https://github.com/Progedit/Lights-on-Parking/blob/0ec399643da04f97743a4bf577648ad1166d9df4/images/Questionnaire/stress_lavoro_studio.png" width=70% height=70%>
+<img src="https://github.com/Progedit/Lights-on-Parking/blob/ba7d781e4507ae6c81868ac9a4e1615aa4b70694/images/Questionnaire/stress_uscite.png" width=70% height=70%>
 
 The two previous graphs show that the search for a parking space is stressful for the interviewed users, in the first when you go to work or where you study and in the other when you go out for leisure.
 
@@ -46,6 +46,9 @@ The requirements of our device are illustrated in the following picture:
 
 <img width="691" alt="Device_Req" src="https://user-images.githubusercontent.com/96829724/165340852-b078c0a8-6396-483a-95a9-902fad7047d0.png">
 
+The following graph shows that most users prefer an invisible device over a visible one.
+
+<img src="https://github.com/Progedit/Lights-on-Parking/blob/ba7d781e4507ae6c81868ac9a4e1615aa4b70694/images/Questionnaire/stress_uscite.png" width=70% height=70%>
 
 
 
