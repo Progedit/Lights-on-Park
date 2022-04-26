@@ -45,7 +45,7 @@ The two previous graphs show that the search for a parking space is stressful fo
 
 While this other graph looks like the search for a parking space, it can affect the punctuality of the user.
 
-<img src="https://github.com/Progedit/Lights-on-Parking/blob/ba7d781e4507ae6c81868ac9a4e1615aa4b70694/images/Questionnaire/stress_uscite.png" width=70% height=70%>
+<img src="https://github.com/Progedit/Lights-on-Parking/blob/c4b96af13ddb53fd79a76f0be98ec9ceda5aeb31/images/Questionnaire/puntualita.png" width=70% height=70%>
 
 
 DEVICE REQUIREMENTS
