@@ -24,11 +24,11 @@ We have extrapolated the following requirements from a google form that we have 
 The requirements are:
 
 - Possibility of giving the citizen a smart way to search for parking spaces.
-<img src="https://github.com/Progedit/Lights-on-Parking/blob/5c958ab9315d6c7418198c67ec9ed35e2f0a14ec/images/Questionnaire/applicazione.jpg" width=70% height=70%>
+<img src="https://github.com/Progedit/Lights-on-Parking/blob/bb1fbd40e96d720277dd34dc4504d3e9a08ba36e/images/Questionnaire/applicazione.jpg" width=70% height=70%>
 This graphic is relative to a request of an new app that give the possibility to search and find a parking space before that we arrive in the specific zone. Almost the ninety percent of the persons have given a positive response.
 
 - The driver, with Lights on parking, already knowing where to park, reduces his time inside the car, devoting the time purchased to something else.
-<img src="https://github.com/Progedit/Lights-on-Parking/blob/bf9c9457109d7261d34cea6232bdb61eafa4bb79/images/Questionnaire/tempo.png" width=70% height=70%>
+<img src="https://github.com/Progedit/Lights-on-Parking/blob/bb1fbd40e96d720277dd34dc4504d3e9a08ba36e/images/Questionnaire/tempo.png" width=70% height=70%>
 
 
 - The reduction of traffic and congestion.
