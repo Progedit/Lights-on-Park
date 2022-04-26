@@ -20,6 +20,7 @@ Communication with the user takes place via a web page / app, which indicates th
 ## **Requirements**
 
 We have extrapolated the following requirements from a google form that we have submit to a randoms people who lives in different places: a little city, a big city or a suburban area of a city. 
+
 The requirements are:
 
 - Possibility of giving the citizen a smart way to search for parking spaces.
