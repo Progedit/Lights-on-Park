@@ -35,8 +35,10 @@ This graphic is relative to a request of an new app that give the possibility to
 
 - Lower consumption of fuel and therefore the reduction of ambiental pollution but also the lower waste of money on fuel.
 
+The next graph is one of the many graphs that tell us how environmental pollution is growing from year to year, reaching historic peaks in recent years.
+
 - Lights on Parking can also benefit the driver's mood. We have found that searching for a parking space is stressful and counterproductive to the vast majority of users. It also affects the driver's punctuality, especially in the workplace.
-- 
+
 <img src="https://github.com/Progedit/Lights-on-Parking/blob/0ec399643da04f97743a4bf577648ad1166d9df4/images/Questionnaire/stress_lavoro_studio.png" width=70% height=70%>
 
 <img src="https://github.com/Progedit/Lights-on-Parking/blob/ba7d781e4507ae6c81868ac9a4e1615aa4b70694/images/Questionnaire/stress_uscite.png" width=70% height=70%>
