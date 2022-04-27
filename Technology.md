@@ -46,4 +46,5 @@ Riot OS gives us the possibility to create the main file that can be flashed in 
 The LoRaWAN specification is a Low Power, Wide Area (LPWA) networking protocol designed to wirelessly connect battery operated ‘things’ to the internet in regional, national or global networks, and targets key Internet of Things (IoT) requirements such as bi-directional communication, end-to-end security, mobility and localization services. It defines the communication protocol and system architecture for the network while the LoRa physical layer enables the long-range communication link. The protocol and network architecture have the most influence in determining the battery lifetime of a node, the network capacity, the quality of service, the security, and the variety of applications served by the network.
 For more details see here: https://lora-alliance.org/lorawan-for-developers/
 
-
+<b>The Things Network</b>: The Things Network is a global collaborative Internet of Things ecosystem that creates networks, devices and solutions using LoRaWAN.
+The Things Network runs The Things Stack Community Edition, which is a crowdsourced, open and decentralized LoRaWAN network. This network is a great way to get started testing devices, applications, and integrations, and get familiar with LoRaWAN.
