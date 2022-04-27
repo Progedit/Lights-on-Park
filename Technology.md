@@ -39,8 +39,11 @@ WebApp: It is a simple web page through which the user can interact with the sys
 
 <img src="https://github.com/Progedit/Lights-on-Parking/blob/e16710c8107c9f4f39fad81d472b33643338de2c/images/Software%20Components'%20Schema.png" width=85% height=85%>
 
-MQTT-S aggregating gateway:MQTT (MQ Telemetry Transport) is a standard ISO publish-subscribe light messaging protocol that sits on top of TCP/IP. It is designed for situations where low impact is required and where bandwidth is limited. The publish-subscribe pattern requires a messaging broker: the broker is responsible for distributing the messages to the intended clients.
-MQTT-SN is a variation of the protocol intended for embedded systems that are not TCP/IP based.
+MQTT (MQ Telemetry Transport): is a standard ISO publish-subscribe light messaging protocol that sits on top of TCP/IP. It is designed for situations where low impact is required and where bandwidth is limited. The publish-subscribe pattern requires a messaging broker: the broker is responsible for distributing the messages to the intended clients.
 
-LoRaWAN is one of several protocols developed to define the upper layers of the network. LoRaWAN is a cloud-based MAC (Media Access Control) layer protocol but serves primarily as a network layer protocol for managing communications between LPWAN (Low Power Wide Area Network) gateways 
+LoRa is the physical layer or the wireless modulation utilized to create the long range communication link. The advantage of LoRa is in the technology’s long range capability. A single gateway or base station can cover entire cities or hundreds of square kilometers.
+
+The LoRaWAN specification is a Low Power, Wide Area (LPWA) networking protocol designed to wirelessly connect battery operated ‘things’ to the internet in regional, national or global networks, and targets key Internet of Things (IoT) requirements such as bi-directional communication, end-to-end security, mobility and localization services. It defines the communication protocol and system architecture for the network while the LoRa physical layer enables the long-range communication link. The protocol and network architecture have the most influence in determining the battery lifetime of a node, the network capacity, the quality of service, the security, and the variety of applications served by the network.
+For more details see here: https://lora-alliance.org/lorawan-for-developers/
+
 
