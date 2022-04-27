@@ -20,7 +20,7 @@ In addition to analyzing the consumption related to the  electronic part, we als
   - 12.7mAh in run mode
   - 0.82mAh in sleep mode
 
-## Details
+## More details
 
 We deepen three specific cases:
 
