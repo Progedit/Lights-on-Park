@@ -17,9 +17,11 @@ Ultrasonic sensor HC-SR04: The HC-SR04 ultrasonic sensor uses sonar to determine
 The sensor come with 4 pins that correspond:
 
 - VCC = +5VDC.
+- Working current = 15mA.
 - Trig = Trigger input of Sensor.
 - Echo = Echo output of Sensor.
 - GND = GND.
+<img src="https://github.com/Progedit/Lights-on-Parking/blob/e16710c8107c9f4f39fad81d472b33643338de2c/images/Ultrasonic%20sensor2.png" width=45% height=45%>
 
 Datasheet is available here: https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
 
