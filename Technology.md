@@ -21,7 +21,7 @@ The sensor come with 4 pins that correspond:
 - Trig = Trigger input of Sensor.
 - Echo = Echo output of Sensor.
 - GND = GND.
-<img src="https://github.com/Progedit/Lights-on-Parking/blob/32e45f9625e40ac8e2f0cb45254b09a741bf0728/images/Ultrasonic%20sensor2.png" width=35% height=35%>
+<img src="https://github.com/Progedit/Lights-on-Parking/blob/2f1fd3841eb37c18bd1a7566bdf66c492066c718/images/Ultrasonic_Sensor.jpg" width=50% height=50%>
 
 Datasheet is available here: https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
 
