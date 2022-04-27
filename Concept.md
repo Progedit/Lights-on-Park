@@ -30,6 +30,8 @@ This graphic is relative to a request of an new app that give the possibility to
 - The driver, with Lights on parking, already knowing where to park, reduces his time inside the car, devoting the time purchased to something else.
 <img src="https://github.com/Progedit/Lights-on-Parking/blob/bb1fbd40e96d720277dd34dc4504d3e9a08ba36e/images/Questionnaire/tempo.png" width=70% height=70%>
 
+In this graph, roughly 50% of users spend between 30 minutes and an hour searching for parking,while 25% take more than an hour and the remaining less than 30 minutes. 
+
 
 - The reduction of traffic and congestion.
 
