@@ -29,19 +29,19 @@ Datasheet is available here: https://cdn.sparkfun.com/datasheets/Sensors/Proximi
 <img src="https://github.com/Progedit/Lights-on-Parking/blob/e16710c8107c9f4f39fad81d472b33643338de2c/images/Hardware%20Component's%20Schema.png" width=85% height=85%>
 
 ## Software
-RIOT OS: RIOT is a small operating system for networked, memory-constrained systems with focus on low-power wireless Internet of Things devices. It is open-source software.
+<b>RIOT OS</b>: RIOT is a small operating system for networked, memory-constrained systems with focus on low-power wireless Internet of Things devices. It is open-source software.
 RIOT is based on a microkernel architecture and in constrast to other operating systems with similarly low memory use, it allows applications software programming with the programming language C and C++, also by an experimental API. It has full multithreading and real-time abilities, and also SSL and TLS are supported by popular libraries.
 Riot OS gives us the possibility to create the main file that can be flashed in a big range of boards or simulate the functioning of the software in the terminal.
 
-AWS: AWS IoT Core allows to connect devices to AWS services or to other devices, protect data and interactions, process and perform actions on device data, enable interactions between applications and devices even when they are offline and consequently produce low-cost devices with Alexa integrated.
+<b>AWS</b>: AWS IoT Core allows to connect devices to AWS services or to other devices, protect data and interactions, process and perform actions on device data, enable interactions between applications and devices even when they are offline and consequently produce low-cost devices with Alexa integrated.
 
-WebApp: It is a simple web page through which the user can interact with the system. Here you can monitor the situation of an area of the city, seeing how many parking spaces are available in that area.
+<b>WebApp</b>: It is a simple web page through which the user can interact with the system. Here you can monitor the situation of an area of the city, seeing how many parking spaces are available in that area.
 
 <img src="https://github.com/Progedit/Lights-on-Parking/blob/e16710c8107c9f4f39fad81d472b33643338de2c/images/Software%20Components'%20Schema.png" width=85% height=85%>
 
-MQTT (MQ Telemetry Transport): is a standard ISO publish-subscribe light messaging protocol that sits on top of TCP/IP. It is designed for situations where low impact is required and where bandwidth is limited. The publish-subscribe pattern requires a messaging broker: the broker is responsible for distributing the messages to the intended clients.
+<b>MQTT (MQ Telemetry Transport)</b>: is a standard ISO publish-subscribe light messaging protocol that sits on top of TCP/IP. It is designed for situations where low impact is required and where bandwidth is limited. The publish-subscribe pattern requires a messaging broker: the broker is responsible for distributing the messages to the intended clients.
 
-LoRa is the physical layer or the wireless modulation utilized to create the long range communication link. The advantage of LoRa is in the technology’s long range capability. A single gateway or base station can cover entire cities or hundreds of square kilometers.
+<b>LoRa</b>: it is the physical layer or the wireless modulation utilized to create the long range communication link. The advantage of LoRa is in the technology’s long range capability. A single gateway or base station can cover entire cities or hundreds of square kilometers.
 
 The LoRaWAN specification is a Low Power, Wide Area (LPWA) networking protocol designed to wirelessly connect battery operated ‘things’ to the internet in regional, national or global networks, and targets key Internet of Things (IoT) requirements such as bi-directional communication, end-to-end security, mobility and localization services. It defines the communication protocol and system architecture for the network while the LoRa physical layer enables the long-range communication link. The protocol and network architecture have the most influence in determining the battery lifetime of a node, the network capacity, the quality of service, the security, and the variety of applications served by the network.
 For more details see here: https://lora-alliance.org/lorawan-for-developers/
