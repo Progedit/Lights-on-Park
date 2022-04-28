@@ -6,6 +6,7 @@
 ### 2. Requirements
   In the first delivery, the project requirements were too general and bland. We did not focus on a particular study area but on a huge city.
 ### 3. Accuracy
+  We haven't supported our ideas with measures and numbers.
 ### 4. Storyboards and Personas
   The use of storyboards and personas weren't necessary, and so we don't use these methods.
 ## Changes
