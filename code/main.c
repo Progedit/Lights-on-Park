@@ -55,11 +55,11 @@ int start(int argc, char **argv){
 			if(distance < 10){
 				//printf("posto occupato\n");
 				if(flag == 0){
-					puts("Now the parking lot is occupated.");
+					puts("Now the parking lot is occupied.");
 					puts("It sends the update on internet");
 				}
 				else{
-					puts("The parking lot is still occupated.");
+					puts("The parking lot is still occupied.");
 					puts("No update");
 				}
 				flag = 1;
@@ -77,7 +77,7 @@ int start(int argc, char **argv){
 				flag=0;
 			}
 		}
-		if(flag == 1){ //parking lot occupated
+		if(flag == 1){ //parking lot occupied
 			//puts("Aspetto più tempo");
 			xtimer_sleep(10);
 		}
