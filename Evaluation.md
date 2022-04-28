@@ -2,15 +2,15 @@
 
 ## Energy consumption
 
-We have analyzed energy consumption trying to reduce it efficiently, lightening the cycle of duty, activating the device at specific time intervals. In fact, continuously checking if the parking space is occupied, when it already is, is not an efficient solution, because  the situation will hardly change in a short time.
+We have analyzed energy consumption trying to reduce it efficiently, activating the device at specific time intervals. In fact, continuously checking if the parking space is occupied, when it already is, is not an efficient solution, because the situation will hardly change in a short time.
 
 Therefore we decided to check the parking status, varying the measurement time intervals, putting the device in sleep-mode between one data measurement and another, based on the situation in which we find ourselves:
-- If the parking space is free, it's easier to be occupied in a short period of time, so let's measure the situation with a higher frequency                           through the sensor.
+- If the parking space is free, it's easier to be occupied in a short time, so let's measure the situation with a higher frequency                           through     the sensor.
   Our idea is to measure the data every minute.
 - If the parking space is occupied, there are less chances that it being vacated in a short time, so measurement is less frequent.
-In this case, the idea is to measure the data every 10 minutes.
+  In this case, the idea is to measure the data every 10 minutes.
 
-In addition to analyzing the consumption related to the electronic part, we also investigated on the activity of sending data, in order to optimize battery life. (sending data is the most expensive phase from an energy point of view). The data is not sent at each measurements, but only when there is a change in the parking status:
+In addition to analyzing the consumption related to the electronic part, we also investigated on the activity of sending data, in order to optimize battery life. (sending data is the most expensive duty from an energy point of view). The data is not sent at each measurements, but only when there is a change in the parking status:
 - Empty parking space -> Occupied parking space.
 - Occupied parking space -> Empty parking space.
 
