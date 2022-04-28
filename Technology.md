@@ -26,7 +26,7 @@ The sensor come with 4 pins that correspond:
 Datasheet is available here: https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
 
 ### How they interact between them: 
-<img src="https://github.com/Progedit/Lights-on-Parking/blob/e16710c8107c9f4f39fad81d472b33643338de2c/images/Hardware%20Component's%20Schema.png" width=85% height=85%>
+<img src="https://github.com/Progedit/Lights-on-Parking/blob/f19e51a59780010502f57b1a080983abecc6f10a/images/Schema_Hardware_Fritizing.png" width=72% height=72%>
 
 ## Software
 <b>RIOT OS</b>: RIOT is a small operating system for networked, memory-constrained systems with focus on low-power wireless Internet of Things devices. It is open-source software.
