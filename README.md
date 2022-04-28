@@ -28,3 +28,6 @@ The scope of the project is give to citizens the possibility to take information
 - [Future Plans Video (2 minutes)]()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+# Previous Delivery
+- [1st Delivery](./1st_Delivery/)
