@@ -2,7 +2,7 @@
 
 ## Energy consumption
 
-We analyzed energy consumption trying to reduce it efficiently, lightening the cycle of duty, activating the device at specific time intervals. In fact, continuously checking if the parking space is occupied, when it already is, is not an efficient solution, because  the situation will hardly change in a short time.
+We have analyzed energy consumption trying to reduce it efficiently, lightening the cycle of duty, activating the device at specific time intervals. In fact, continuously checking if the parking space is occupied, when it already is, is not an efficient solution, because  the situation will hardly change in a short time.
 
 Therefore we decided to check the parking status, varying the measurement time intervals, putting the device in sleep-mode between one data measurement and another, based on the situation in which we find ourselves:
 - If the parking space is free, it's easier to be occupied in a short period of time, so let's measure the situation with a higher frequency                           through the sensor.
