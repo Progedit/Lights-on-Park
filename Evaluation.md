@@ -31,7 +31,7 @@ We have choosen three specific cases:
    - The device discharges after approximately 21 days.
 
 2) Device with always free parking (worst case):
-   - We check parking situation every minute.
+   - We check parking status every minute.
    - 59s sleep mode. -> 3540s of sleep mode -> consumes 0.80mA in one hour.
    - 1s run mode. -> 60s of run mode -> consumes 0.46mA in one hour
    - Overall in 1 hour it consumes (0.80 + 0.46) mA = 1.26mA.
@@ -39,7 +39,7 @@ We have choosen three specific cases:
    - The device discharges after approximately 460 days.
 
 3)  Device with always occupied parking (best case):
-   - We check parking situation every 10 minutes.
+   - We check parking status every 10 minutes.
    - 3594s of sleep mode in 1 hour -> consumes 0.818mA in one hour
    - 6s of run mode in 1 hour -> consumes 0.046mA in one hour
    - Overall in 1 hour it consumes (0.818 + 0.046) mA = 0.864mA
