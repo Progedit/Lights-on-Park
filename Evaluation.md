@@ -2,18 +2,18 @@
 
 ## Energy consumption
 
-We analyzed energy consumption by trying to reduce it efficiently, lightening the work cycle, by activating the device at time intervals, in order to optimize battery life.
-In fact, continuously checking if the parking lot is occupied, when it already is, is not an efficient solution, because  the situation will hardly change in a short time.
+We analyzed energy consumption trying to reduce it efficiently, lightening the cycle of duty, activating the device at specific time intervals. In fact, continuously checking if the parking space is occupied, when it already is, is not an efficient solution, because  the situation will hardly change in a short time.
 
-We therefore decided to check the parking status by varying the measurement time intervals, putting the device in sleep-mode between one data measurement and another, based on the situation in which we find ourselves:
-- If the car park is free, it is easier for it to be occupied in a shorter period of time, so let's measure the situation with a higher frequency                             through the sensor.
+Therefore we decided to check the parking status, varying the measurement time intervals, putting the device in sleep-mode between one data measurement and another, based on the situation in which we find ourselves:
+- If the parking space is free, it's easier to be occupied in a shorter period of time, so let's measure the situation with a higher frequency                           through the sensor.
   Our idea is to measure the data every minute.
-- If the parking lot is occupied, there is less chance of it being vacated in a short time, so measurement is less frequent.
+- If the parking space is occupied, there are less chances that it being vacated in a short time, so measurement is less frequent.
 In this case, the idea is to measure the data every 10 minutes.
 
-In addition to analyzing the consumption related to the  electronic part, we also investigated that inherent in the activity of sending data, optimizing the efficiency of the battery (sending data is the most expensive phase from an energy point of view).The data is not sent at each measurement, but only when there is a change in status:
-- Free parking -> occupied parking.
-- Occupied parking -> free parking.
+In addition to analyzing the consumption related to the electronic part, we also investigated on the activity of sending data, in order to optimize battery life. (sending data is the most expensive phase from an energy point of view).The data is not sent at each measurement, but only when there is a change in the parking status:
+- Empty parking space -> Occupied parking space.
+- Occupied parking space -> Empty parking space.
+
 #### Devices consumptions:
 - Battery: 14000mAh power bank
 - Ultrasonic sensor consumes 15mAh (when triggered, otherwise 0)
