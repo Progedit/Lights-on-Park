@@ -25,7 +25,7 @@ The scope of the project is give to citizens the possibility to take information
 ## Video Resources
 - [Demo Video (5 minutes)]()
 - [Evaluation Video (3 minutes)]()
-- [Future Plans Video (2 minutes)]()
+- [Future Plans Video (2 minutes)](https://youtu.be/tPoB7oHuTko)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
