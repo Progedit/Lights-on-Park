@@ -38,7 +38,7 @@ The data are stored in DynamoDB: it is a fully managed proprietary NoSQL databas
 
 <b>WebApp</b>: It is a simple web page through which the user can interact with the system. Here you can monitor the situation of an area of the city, seeing how many parking spaces are available in that area.
 
-<img src="" width=85% height=85%>
+<img src="https://github.com/Progedit/Lights-on-Parking/blob/3da7682dfb0566750f19ed1f9a12b4f4fa52dd9c/images/Schema.png" width=85% height=85%>
 
 <b>MQTT (MQ Telemetry Transport)</b>: is a standard ISO publish-subscribe light messaging protocol that sits on top of TCP/IP. It is designed for situations where low impact is required and where bandwidth is limited. The publish-subscribe pattern requires a messaging broker: the broker is responsible for distributing the messages to the intended clients.
 
