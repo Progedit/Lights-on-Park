@@ -14,11 +14,12 @@ In this case, the idea is to measure the data every 10 minutes.
 In addition to analyzing the consumption related to the  electronic part, we also investigated that inherent in the activity of sending data, optimizing the efficiency of the battery (sending data is the most expensive phase from an energy point of view).The data is not sent at each measurement, but only when there is a change in status:
 - Free parking -> occupied parking.
 - Occupied parking -> free parking.
+#### Devices Consumes:
 - Battery: 14000mAh power bank
 - Ultrasonic sensor consumes 15mAh (when triggered, otherwise 0)
 - Board STM32 consumes:
-  - 12.7mAh in run mode
-  - 0.82mAh in sleep mode
+    - 12.7mAh in run mode
+    - 0.82mAh in sleep mode
 
 ## More details
 
