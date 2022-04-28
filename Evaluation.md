@@ -16,7 +16,7 @@ In addition to analyzing the consumption related to the electronic part, we also
 
 #### Devices consumptions:
 - Battery: 14000mA power bank
-- Ultrasonic sensor consumes 15mA (when triggered, otherwise 0)
+- Ultrasonic sensor consumes 15mAh
 - Board STM32 consumes:
     - 12.7mAh in run mode
     - 0.82mAh in sleep mode
