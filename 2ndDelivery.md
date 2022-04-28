@@ -7,7 +7,7 @@
   In the first delivery, the project requirements were too general and bland. We did not focus on a particular study area but on a huge city.
 ### 3. Accuracy
 ### 4. Storyboards and Personas
-  The use of storyboards and personas weren't necessary, but there are now and we had to use better for identify the requirements.
+  The use of storyboards and personas weren't necessary, and so we don't use these methods.
 ## Changes
   During the first delivery, several problems arose about how we had set up our project.
 
