@@ -29,5 +29,5 @@ The scope of the project is give to citizens the possibility to take information
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-# Previous Delivery
+## Previous Delivery
 - [1st Delivery](./1st_Delivery/)
