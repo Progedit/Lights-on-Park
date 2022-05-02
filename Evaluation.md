@@ -26,8 +26,8 @@ In addition to analyzing the consumption related to the electronic part, we also
 We have choosen three specific cases:
 
 1) Constantly connected device:
-   - In 1 hour it consumes (15 + 12.7) mAh = 27.7mAh
-   - In one day it consumes 664.8mAh
+   - In 1 hour it consumes (15 + 12.7) mA = 27.7mA
+   - In one day it consumes 664.8mA
    - The device discharges after approximately 21 days.
 
 2) Device with always free parking (worst case):
