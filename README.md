@@ -24,7 +24,7 @@ The scope of the project is give to citizens the possibility to take information
 
 ## Video Resources
 - [Technical Point of View and Demo Video (5 minutes)](https://youtu.be/rLRAmrYiwjA)
-- [Evaluation Video (3 minutes)](https://youtu.be/5KO33bAF0us)
+- [Evaluation Video (3 minutes)](https://youtu.be/0BGX2uoIYrQ)
 - [Future Plans Video (2 minutes)](https://youtu.be/tPoB7oHuTko)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
