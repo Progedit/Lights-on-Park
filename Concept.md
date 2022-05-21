@@ -14,7 +14,13 @@ We have chosen to focus our studio in a very specific area, familiar to us, Via 
 
 ## The device
 
-Our device revolves around an ultrasonic sensor, which is positioned under the asphalt, in the center of the parking space, in such a way as to allow maximum efficiency.
+Our device revolves around this sensor.
+
+<img src="https://github.com/Progedit/Lights-on-Parking/blob/bb1fbd40e96d720277dd34dc4504d3e9a08ba36e/images/Questionnaire/applicazione.jpg" width=70% height=70%>
+     
+
+The sensor, once positioned and calibrated, allows to detect the presence of vehicles parked in the car park.
+The technology used is able to record the variation of the earth's magnetic field induced by the presence of the ferrous mass of the vehicle.
 Communication with the user takes place via a web page / app, which indicates the places available in a specific area.
 
 ## Requirements
