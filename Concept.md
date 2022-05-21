@@ -14,7 +14,11 @@ We have chosen to focus our studio in a very specific area, familiar to us, Via 
 
 ## The device
 
-Our device revolves around a sensor that, once positioned and calibrated, allows to detect the presence of vehicles parked in the car park.
+Our device revolves around the following sensor:
+
+<img src="https://github.com/Progedit/Lights-on-Parking/blob/68f292d0ec77c6a3fbe19e27bb7182b3ca373e31/images/sensor.png" width=40% height=40%>
+
+This sensor, once positioned and calibrated, allows to detect the presence of vehicles parked in the car park.
 The technology used is able to record the variation of the earth's magnetic field induced by the presence of the ferrous mass of the vehicle.The requirements of this sensor are the following:
 - The installation is extremely economical and practical as it is not necessary to intervene on the roads to lay cables;
 - It also helps to ensure greater safety for pedestrians;
