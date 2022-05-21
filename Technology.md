@@ -1,10 +1,10 @@
 # Technology
-The project is built in a STM32 LoRaWAN Discovery Board in which we implemented an ultrasonic proximity sensor which is used to determine when a car is parked in a certain parking lot.
+The project is built in a STM-32 LoRaWAN Discovery Board in which we implemented an ultrasonic proximity sensor which is used to determine when a car is parked in a certain parking lot.
 For the software components, we created the main firmware file in Riot OS (it is an operating system for the embedded systems), and we use LoRa-Wan connection to communicate between every devices of each car park and the edge that manages the area in question (the aggregating gateway); we also use MQTT to forward the information of the area to our cloud broker, in this particular case AWS cloud, that saves the data in a database (in particular DynamoDB). After the cloud has collected the parking data in a specific area, these are shown and available for consultation by the user through a web page.
 Let’s look at these components in more details.
 
 ## Hardware
-### STM-32 Nucleo Board
+### STM-32 LoRaWAN Discovery Board
 <img src="https://github.com/Progedit/Lights-on-Parking/blob/7f7f6ebc3b4780be028bdf3520b7de48cc5d95fe/images/lora.jpg" width=55% height=55%>
 STM32 Nucleo-64 board: The STM32 Nucleo-64 board provides an affordable and flexible way for users to try out new concepts and build prototypes by choosing from the various combinations of performance and power consume features, provided by the STM32 microcontroller. It has 1 user LED shared with ARDUINO, 1 user and 1 reset push-buttons, 32.768 kHz crystal oscillator, board connectors and flexible power-supply options.
 <br/>
