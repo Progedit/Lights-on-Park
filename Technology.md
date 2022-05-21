@@ -1,5 +1,5 @@
 # Technology
-The project is built in a STM32 Nucleo-64 board, in which we implemented an ultrasonic proximity sensor which is used to determine when a car is parked in a certain parking lot.
+The project is built in a STM32 LoRaWAN Discovery Board in which we implemented an ultrasonic proximity sensor which is used to determine when a car is parked in a certain parking lot.
 For the software components, we created the main firmware file in Riot OS (it is an operating system for the embedded systems), and we use LoRa-Wan connection to communicate between every devices of each car park and the edge that manages the area in question (the aggregating gateway); we also use MQTT to forward the information of the area to our cloud broker, in this particular case AWS cloud, that saves the data in a database (in particular DynamoDB). After the cloud has collected the parking data in a specific area, these are shown and available for consultation by the user through a web page.
 Let’s look at these components in more details.
 
