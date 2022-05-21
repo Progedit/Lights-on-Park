@@ -14,13 +14,20 @@ We have chosen to focus our studio in a very specific area, familiar to us, Via 
 
 ## The device
 
-Our device revolves around this sensor.
+Our device revolves around a sensor that, once positioned and calibrated, allows to detect the presence of vehicles parked in the car park.
+The technology used is able to record the variation of the earth's magnetic field induced by the presence of the ferrous mass of the vehicle.The requirements of this sensor are the following:
+- The installation is extremely economical and practical as it is not necessary to intervene on the roads to lay cables;
+- It also helps to ensure greater safety for pedestrians;
+- Maximum privacy protection, infact the sensor records an anonymous data based on the variation of the earth's magnetic field;
+- Easier maintenance;
+- Improved aesthetics;
+- The device turns on only when a vehicle is positioned on the free stall and so low battery consumptions.
 
-<img src="https://github.com/Progedit/Lights-on-Parking/blob/bb1fbd40e96d720277dd34dc4504d3e9a08ba36e/images/Questionnaire/applicazione.jpg" width=70% height=70%>
-     
+This device is extremely versatile, with a very high level of efficiency and an unparalleled performance / price ratio.
 
-The sensor, once positioned and calibrated, allows to detect the presence of vehicles parked in the car park.
-The technology used is able to record the variation of the earth's magnetic field induced by the presence of the ferrous mass of the vehicle.
+
+However, for our university project we could not use this sensor because it is impossible to test it and therefore we replaced it with an ultrasonic sensor.
+
 Communication with the user takes place via a web page / app, which indicates the places available in a specific area.
 
 ## Requirements
