@@ -14,7 +14,6 @@ The scope of the project is give to citizens the possibility to take information
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## More details
-- [2nd Delivery](./2ndDelivery.md)
 - [Concept](./Concept.md)
 - [Technology](./Technology.md)
 - [Evaluation](./Evaluation.md)
@@ -23,11 +22,12 @@ The scope of the project is give to citizens the possibility to take information
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Video Resources
-- [Technical Point of View and Demo Video (5 minutes)](https://youtu.be/rLRAmrYiwjA)
-- [Evaluation Video (3 minutes)](https://youtu.be/0BGX2uoIYrQ)
-- [Future Plans Video (2 minutes)](https://youtu.be/tPoB7oHuTko)
+- [Presentation Video (10 minutes)](https://youtu.be/rLRAmrYiwjA)
+- [Demo Video (5 minutes)](https://youtu.be/0BGX2uoIYrQ)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Previous Delivery
 - [1st Delivery](./1st_Delivery/)
+- [2nd Delivery](./2nd_Delivery)
