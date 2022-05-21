@@ -5,7 +5,7 @@ Let’s look at these components in more details.
 
 ## Hardware
 ### STM-32 Nucleo Board
-<img src="https://github.com/Progedit/Lights-on-Parking/blob/e16710c8107c9f4f39fad81d472b33643338de2c/images/STM-32%20NucleoBoard.jpg" width=55% height=55%>
+<img src="https://github.com/Progedit/Lights-on-Parking/blob/7f7f6ebc3b4780be028bdf3520b7de48cc5d95fe/images/lora.jpg" width=55% height=55%>
 STM32 Nucleo-64 board: The STM32 Nucleo-64 board provides an affordable and flexible way for users to try out new concepts and build prototypes by choosing from the various combinations of performance and power consume features, provided by the STM32 microcontroller. It has 1 user LED shared with ARDUINO, 1 user and 1 reset push-buttons, 32.768 kHz crystal oscillator, board connectors and flexible power-supply options.
 <br/>
 <br/>
