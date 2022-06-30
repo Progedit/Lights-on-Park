@@ -6,10 +6,10 @@ Let’s look at these components in more details.
 ## Hardware
 ### STM-32 LoRaWAN Discovery Board
 <img src="https://github.com/Progedit/Lights-on-Parking/blob/7f7f6ebc3b4780be028bdf3520b7de48cc5d95fe/images/lora.jpg" width=55% height=55%>
-STM32 Nucleo-64 board: The STM32 Nucleo-64 board provides an affordable and flexible way for users to try out new concepts and build prototypes by choosing from the various combinations of performance and power consume features, provided by the STM32 microcontroller. It has 1 user LED shared with ARDUINO, 1 user and 1 reset push-buttons, 32.768 kHz crystal oscillator, board connectors and flexible power-supply options.
+The B-L072Z-LRWAN1 LoRa®/Sigfox™ Discovery kit is a development tool to learn and develop solutions based on LoRa®, Sigfox™, and FSK/OOK technologies. This Discovery kit features the all-in-one CMWX1ZZABZ-091 open module by Murata. The module is powered by an STM32L072CZ microcontroller and SX1276 transceiver. The transceiver features the LoRa® long-range modem, providing ultra-long-range spread-spectrum communication and high interference immunity, minimizing current consumption.
 <br/>
 <br/>
-The databrief is available here: https://www.st.com/resource/en/data_brief/nucleo-f401re.pdf
+The databrief is available here: https://www.st.com/resource/en/user_manual/dm00329995-discovery-kit-for-lorawan-sigfox-and-lpwan-protocols-with-stm32l0-stmicroelectronics.pdf
 
 ### Ultrasonic Sensor
 <img src="https://github.com/Progedit/Lights-on-Parking/blob/e16710c8107c9f4f39fad81d472b33643338de2c/images/Ultrasonic%20Sensor.jpg" width=45% height=45%>
