@@ -30,4 +30,4 @@ The scope of the project is give to citizens the possibility to take information
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Previous Delivery
-- [1st Delivery](./Progedit/Lights-on-Parking/1st_Delivery/)
+- [1st Delivery](https://github.com/Progedit/Lights-on-Parking/tree/main/1st_Delivery)
