@@ -17,7 +17,7 @@ We have chosen to focus our studio in a very specific area, familiar to us, Via 
 
 ## The device
 
-Our device revolves around the following sensor:
+Our device revolves ideally around the following sensor:
 
 <img src="https://github.com/Progedit/Lights-on-Parking/blob/68f292d0ec77c6a3fbe19e27bb7182b3ca373e31/images/sensor.png" width=40% height=40%>
 
