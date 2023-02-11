@@ -10,6 +10,7 @@ As a starting point for the project we took into consideration one of the themes
 
 ## The problem
 Nowadays to find a parking lot is a very big problem in the most of the cities: population of cities (and in particular in the big towns) is always growing up, and so the demand for available parking spaces is growing. The main problem is that the space in a town is limited and so the demand has exceeded the availability of parking lots, and so the research of a car parking free is very difficult. This problem has a big impact on the world under a lot of aspect: from the study conducted by INRIX in 2017, it is possible to see that this problem in UK causes a cost of £23.3 Billion a Year, and in particular for each citizen 44 hours wasted and £733 every year. So to find a parking lot is a big problem that has a big impact in the world.
+Tp know more about the research: https://inrix.com/press-releases/parking-pain-uk/
 
 ## Study Area
 
