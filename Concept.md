@@ -8,6 +8,9 @@ Lights on Parking is a project created to monitor the availability of parking sp
 
 As a starting point for the project we took into consideration one of the themes offered by the Open Impact platform, namely Urban Regeneration, specifically the section relating to Sustainable Transport. We believe that our idea can provide a “smart” solution to a problem that is certainly very present in a chaotic city like Rome, that of parking.
 
+## The problem
+Nowadays to find a parking lot is a very big problem in the most of the cities: population of cities (and in particular in the big towns) is always growing up, and so the demand for available parking spaces is growing. The main problem is that the space in a town is limited and so the demand has exceeded the availability of parking lots, and so the research of a car parking free is very difficult. This problem has a big impact on the world under a lot of aspect: from the study conducted by INRIX in 2017, it is possible to see that this problem in UK causes a cost of £23.3 Billion a Year, and in particular for each citizen 44 hours wasted and £733 every year. So to find a parking lot is a big problem that has a big impact in the world.
+
 ## Study Area
 
 We have chosen to focus our studio in a very specific area, familiar to us, Via delle Sette Sale, near our university, La Sapienza, with the possibility in the future to extend it throughout the city. In fact, we usually have to go around looking for a parking space in that area for a long time, risking being late and creating unnecessary "traffic". In these cases, it would be useful to have an application that indicates an available parking space near your area.
