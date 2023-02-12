@@ -20,8 +20,8 @@ So from these data we based our assumption with regard to how many times to meas
 ### Radio usage
 In addition to analyzing the consumption related to the electronic part, we also investigated on the activity of sending data, in order to optimize battery life. (sending data is the most expensive duty from an energy point of view). 
 
-Obviously the first possible approach is to send data for every measurement, keeping continuos track of every measurement. But for our purpose it is unnecessary: we want to display to the user if a determine parking lot is free or not, so it is a big waste of energy to send to cloud a date egual to the previous one. So we done the following assumption:
-The data is not sent at each measurements, but only when there is a change in the parking status:
+Obviously the first possible approach is to send data for every measurement, keeping continuos track of every measurement. But for our purpose it is unnecessary: we want to display to the user if a determine parking lot is free or not, so it is a big waste of energy to send to cloud a data egual to the previous one. So we done the following assumption.
+The data are not sent at each measurements, but only when there is a change in the parking status:
 - Empty parking space -> Occupied parking space.
 - Occupied parking space -> Empty parking space.
 
