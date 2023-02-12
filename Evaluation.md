@@ -36,6 +36,10 @@ This greatly reduce energy consumptions, and it is perfect for our interest. In 
 
 ## More details of analysis
 
+So from these data exposed above, we based our assumption with regard to how many times to measure the current state of a determinate parking lot: we want to measure the state more frequently when it is free, because it is more probable that there will be a change from free to occupied.
+
+Initially we thought to measure every 1 minute if the parking lot is free, so doing a simple calculation (4,4 : 95,6 = 1 : x) we measure if a it is occupied every 22 minute. After some simulations we saw that in this way we don’t have much accuracy, because measure every 22 minute is cause of a lot error data. So we reduce these times of measure and we check the state of a parking every 30 seconds if it is free and every 11 minutes if it is occupied. This is the best compromise between accuracy and energy consumption.
+
 We have choosen three specific cases:
 
 1) Constantly connected device:
