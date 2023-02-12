@@ -21,6 +21,11 @@ The scope of the project is give to citizens the possibility to take information
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Blog post:
+- [Blog post](https://www.hackster.io/stefano-rucci/lights-on-parking-698115)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Video Resources
 - [Presentation Video (10 minutes)](https://github.com/Progedit/Lights-on-Parking/blob/main/ToDo.md)
 - [Demo Video (5 minutes)](https://github.com/Progedit/Lights-on-Parking/blob/main/ToDo.md)
