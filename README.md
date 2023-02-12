@@ -28,7 +28,7 @@ The scope of the project is give to citizens the possibility to take information
 
 ## Video Resources
 - [Presentation Video (10 minutes)](https://github.com/Progedit/Lights-on-Parking/blob/main/ToDo.md)
-- [Demo Video (5 minutes)](https://github.com/Progedit/Lights-on-Parking/blob/main/ToDo.md)
+- [Demo Video](https://www.youtube.com/watch?v=2jt28GkLYO0)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
