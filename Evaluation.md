@@ -2,8 +2,9 @@
 
 ## Energy consumption
 
-The major constraint that we have is about energy consumption: once the device is installed, it is difficult to maintain it so we want that the battery life to be as long as possible. We analyzed this problem trying to reduce the energy consumption as much possible, activating the device at specific time intervals. In fact, continuously checking if the parking space is occupied, when it already is, is not an efficient solution, because the situation will hardly change in a short time and so it is an unnecessary wast of energy.
+The major constraint that we have is about energy consumption: once the device is installed, it is difficult to maintain it so we want that the battery life to be as long as possible. We analyzed this problem trying to reduce the energy consumption as much possible, activating the device at specific time intervals. In fact, continuously checking if the parking space is occupied, when it already is, is not an efficient solution, because the situation will hardly change in a short time and so it is an unnecessary wast of energy. Furthemore we also want to optimize energy consumption for sending data to the cloud.
 
+### Sensor sampling frequency 
 Therefore we decided to check the parking status, varying the measurement time intervals, putting the device in sleep-mode between one data measurement and another. From the proportion time, the cars spend on average 4,4% of the time driving and the 95,6% parked. The analysis is revealed in Standing Still – a new report by the RAC Foundation – which looks at data provided by the leading net zero data analytics consultancy Field Dynamics and the Ordnance Survey, as well as government statistics. See more here: https://www.racfoundation.org/media-centre/cars-parked-23-hours-a-day. 
 
 Of this 95.6%, 72.6% includes parking at home while hang around, but since we want our device to be usable anywhere regardless the context, we make no distinction between the two data and assume that the car is parked 95.6% of the time.
@@ -15,7 +16,12 @@ So from these data we based our assumption with regard to how many times to meas
 - If the parking space is occupied, there are less chances that it being vacated in a short time, so measurement is less frequent.
   (In this case, the idea is to measure the data every 10 minutes.)
 
-In addition to analyzing the consumption related to the electronic part, we also investigated on the activity of sending data, in order to optimize battery life. (sending data is the most expensive duty from an energy point of view). The data is not sent at each measurements, but only when there is a change in the parking status:
+
+### Radio usage
+In addition to analyzing the consumption related to the electronic part, we also investigated on the activity of sending data, in order to optimize battery life. (sending data is the most expensive duty from an energy point of view). 
+
+Obviously the first possible approach is to send data for every measurement, keeping continuos track of every measurement. But for our scope it is unnecessary: we want to display to the user if a determine parking lot is free or not, so it is a big waste of energy to send to cloud a date egual to the previous one. So we done the following assumption:
+The data is not sent at each measurements, but only when there is a change in the parking status:
 - Empty parking space -> Occupied parking space.
 - Occupied parking space -> Empty parking space.
 
