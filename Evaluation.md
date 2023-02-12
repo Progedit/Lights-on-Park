@@ -1,4 +1,4 @@
-# Evaluation(To Rework)
+# Evaluation
 
 ## Energy consumption
 
@@ -12,9 +12,7 @@ Of this 95.6%, 72.6% includes parking at home while hang around, but since we wa
 So from these data we based our assumption with regard to how many times to measure the current state of a determinate parking lot: we want to measure the state more frequently when it is free, because it is more probable that there will be a change from free to occupied.
 
 - If the parking space is free, it's easier to be occupied in a short time, so let's measure the situation with a higher frequency                           through the sensor.
-  (Our idea is to measure the data every minute.)
 - If the parking space is occupied, there are less chances that it being vacated in a short time, so measurement is less frequent.
-  (In this case, the idea is to measure the data every 10 minutes.)
 
 
 ### Radio usage
