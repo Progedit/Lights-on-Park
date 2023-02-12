@@ -24,6 +24,7 @@ Obviously the first possible approach is to send data for every measurement, kee
 The data is not sent at each measurements, but only when there is a change in the parking status:
 - Empty parking space -> Occupied parking space.
 - Occupied parking space -> Empty parking space.
+This greatly reduce energy consumptions, and it is perfect for our interest. In this way we can also be compliant with the LoRa duty cycle restrictions.
 
 #### Devices consumptions:
 - Battery: 14000mA power bank
