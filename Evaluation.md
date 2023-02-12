@@ -2,7 +2,7 @@
 
 ## Energy consumption
 
-A major constraint that we have is about energy consumption. We have analyzed it trying to reduce it efficiently, activating the device at specific time intervals. In fact, continuously checking if the parking space is occupied, when it already is, is not an efficient solution, because the situation will hardly change in a short time.
+The major constraint that we have is about energy consumption: once the device is installed, it is difficult to maintain it so we want that the battery life to be as long as possible. We have analyzed this trying to reduce the energy consumption as much possible, activating the device at specific time intervals. In fact, continuously checking if the parking space is occupied, when it already is, is not an efficient solution, because the situation will hardly change in a short time and so it is an unnecessary wast of energy.
 
 Therefore we decided to check the parking status, varying the measurement time intervals, putting the device in sleep-mode between one data measurement and another. From the proportion time, the cars spend on average 4,4% of the time driving and the 95,6% parked. The analysis is revealed in Standing Still – a new report by the RAC Foundation – which looks at data provided by the leading net zero data analytics consultancy Field Dynamics and the Ordnance Survey, as well as government statistics. See more here: https://www.racfoundation.org/media-centre/cars-parked-23-hours-a-day. 
 
