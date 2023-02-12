@@ -6,7 +6,7 @@ The major constraint that we have is about energy consumption: once the device i
 
 Therefore we decided to check the parking status, varying the measurement time intervals, putting the device in sleep-mode between one data measurement and another. From the proportion time, the cars spend on average 4,4% of the time driving and the 95,6% parked. The analysis is revealed in Standing Still – a new report by the RAC Foundation – which looks at data provided by the leading net zero data analytics consultancy Field Dynamics and the Ordnance Survey, as well as government statistics. See more here: https://www.racfoundation.org/media-centre/cars-parked-23-hours-a-day. 
 
-Of this 95.6%, 72% includes parking at home while hang around, but since we want our device to be usable anywhere regardless the context, we make no distinction between the two data and assume that the car is parked 95.6% of the time.
+Of this 95.6%, 72.6% includes parking at home while hang around, but since we want our device to be usable anywhere regardless the context, we make no distinction between the two data and assume that the car is parked 95.6% of the time.
 
 So from these data we based our assumption with regard to how many times to measure the current state of a determinate parking lot: we want to measure the state more frequently when it is free, because it is more probable that there will be a change from free to occupied.
 
