@@ -221,11 +221,11 @@ int main(void)
 		}
 		if(flag == 1){ //parking lot occupied
 			//puts("Aspetto più tempo");
-			xtimer_sleep(10);
+			xtimer_sleep(10); //10 minutes
 		}
 		else if(flag == 0){ //parking lot free
 			//puts("Controllo più frequentemente");
-			xtimer_sleep(5);
+			xtimer_sleep(5); //30 seconds
 		}
 	}
 
