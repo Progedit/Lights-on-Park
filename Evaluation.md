@@ -34,7 +34,7 @@ This greatly reduce energy consumptions, and it is perfect for our interest. In 
     - 12.7mAh in run mode
     - 0.82mAh in sleep mode
 
-## More details
+## More details of analysis
 
 We have choosen three specific cases:
 
@@ -52,12 +52,12 @@ We have choosen three specific cases:
    - The device discharges after approximately 460 days.
 
 3)  Device with always occupied parking (best case):
-   - We check parking status every 10 minutes.
-   - 3594s of sleep mode in 1 hour -> consumes 0.818mA in one hour
-   - 6s of run mode in 1 hour -> consumes 0.046mA in one hour
-   - Overall in 1 hour it consumes (0.818 + 0.046) mA = 0.864mA
-   - In one day it consumes 20.736mA.
-   - The device discharges after approximately 675 days.
+    - We check parking status every 10 minutes.
+    - 3594s of sleep mode in 1 hour -> consumes 0.818mA in one hour
+    - 6s of run mode in 1 hour -> consumes 0.046mA in one hour
+    - Overall in 1 hour it consumes (0.818 + 0.046) mA = 0.864mA
+    - In one day it consumes 20.736mA.
+    - The device discharges after approximately 675 days.
 
 So in a real operating situation of the device, the battery life varies from a minimum of 460 days to a maximum of 675 days, against only 21 days if the device is constantly in run mode.
 
