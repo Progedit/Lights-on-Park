@@ -34,6 +34,8 @@ This greatly reduce energy consumptions, and it is perfect for our interest. In 
 
 ## More details of analysis
 
+### Power consumption of the device
+
 So from these data exposed above, we based our assumption with regard to how many times to measure the current state of a determinate parking lot: we want to measure the state more frequently when it is free, because it is more probable that there will be a change from free to occupied.
 
 Initially we thought to measure every 1 minute if the parking lot is free, so doing a simple calculation (4,4 : 95,6 = 1 : x) we measure if a it is occupied every 22 minute. After some simulations we saw that in this way we don’t have much accuracy, because measure every 22 minute is cause of a lot error data. So we reduce these times of measure and we check the state of a parking every 30 seconds if it is free and every 10 minutes if it is occupied. This is the best compromise between accuracy and energy consumption.
@@ -63,7 +65,12 @@ We have choosen three specific cases:
 
 So in a real operating situation of the device, the battery life varies from a minimum of 482 days to a maximum of 675 days, against only 21 days if the device is constantly in run mode.
 
-
+### Network usage
+This architecture does not have any particular network constraint. We focused on analysing the latency time between the measurement and the receiving the message. The time interval is composed by:
+* Time of the Ultrasonic sensor (T<sub>Ultrasonic</sub>): the time needed to compute the measurements of the current state.
+* Time send Message (T<sub>Message</sub>): the time needed to send a message.
+* Time on Air (T<sub>Air</sub>): the time needed to a message to go from the board to the LoRa gateway.
+* Time of Cloud (T<sub>Cloud</sub>): the time from the LoRa gateway to the end-user.
 
 
 
