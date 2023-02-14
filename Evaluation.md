@@ -25,16 +25,16 @@ The data are not sent at each measurements, but only when there is a change in t
 
 This greatly reduce energy consumptions, and it is perfect for our interest. In this way we can also be compliant with the LoRa duty cycle restrictions.
 
-#### Devices consumptions:
+## More details of analysis
+
+### Devices consumptions:
 - Battery: 14000mA power bank
 - Ultrasonic sensor consumes 15mAh
 - Board STM32 consumes:
     - 12.7mAh in run mode
     - 0.82mAh in sleep mode
 
-## More details of analysis
-
-### Power consumption of the device
+### Energy consumption of the device
 
 So from these data exposed above, we based our assumption with regard to how many times to measure the current state of a determinate parking lot: we want to measure the state more frequently when it is free, because it is more probable that there will be a change from free to occupied.
 
