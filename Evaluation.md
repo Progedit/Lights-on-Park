@@ -75,3 +75,13 @@ This architecture does not have any particular network constraint. We focused on
 So to measure the time from the measurement to the moment where the data are available (and so the latency) we have to do the following calculation:
 
 T<sub>Ultrasonic</sub>+T<sub>Message</sub>+T<sub>Air</sub>+T<sub>Cloud</sub>
+
+Let's see in detail the values of these parameters:
+* T<sub>Ultrasonic</sub> = 1s because the system performs the measurement for one second.
+* T<sub>Air</sub> = 0.05s because the board dose not take more that 0.05ms to compute the measurement and send it on the network.
+* T<sub>Air</sub> = 0.07s - 0.08s. To compute this value we use the tools available [here](https://www.thethingsnetwork.org/airtime-calculator). The messages we send are *occupied* and *free* so they have respectively 8 and 4 bytes of payload, and the header packet of Lora is 13 bytes. So the input bytes is of 21 size, the speding factor is 7, the region is EU868 and the bandwidth is 125hHz, and from this values we compute the airtime from the board to the gateway.
+* T<sub>Cloud</sub> = 2s this is the time needed on the cloud to process the data and it does not take more than 2s.
+
+So:
+
+T<sub>Ultrasonic</sub>+T<sub>Message</sub>+T<sub>Air</sub>+T<sub>Cloud</sub> = 1s+0.05s+0.08s+2s≃4s
