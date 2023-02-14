@@ -84,4 +84,4 @@ Let's see in detail the values of these parameters:
 
 So:
 
-T<sub>Ultrasonic</sub>+T<sub>Message</sub>+T<sub>Air</sub>+T<sub>Cloud</sub> = 1s+0.05s+0.08s+2s≃4s
+T<sub>Ultrasonic</sub>+T<sub>Message</sub>+T<sub>Air</sub>+T<sub>Cloud</sub> = 1s+0.05s+0.08s+2s≃5s
