@@ -79,7 +79,7 @@ DEVICE REQUIREMENTS
 
 In the diagram below we show how our device is better than the other two,that are a top video camera installed on the light pole and a pole installed on the sidewalk with an ultrasonic sensor.
 
-<img width="691" alt="Device_Req" src="">
+<img width="691" alt="Device_Req" src="https://github.com/Progedit/Lights-on-Parking/blob/8e68d338d5536996ef16ae4b43af77c732fc9f08/images/Dev-req.png">
 
 Our device:
 - Respect the privacy of users.
