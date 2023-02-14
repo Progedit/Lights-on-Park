@@ -79,7 +79,7 @@ DEVICE REQUIREMENTS
 
 In the diagram below we show how our device is better than the other two,that are a top video camera installed on the light pole and a pole installed on the sidewalk with an ultrasonic sensor.
 
-<img width="691" alt="Device_Req" src="https://user-images.githubusercontent.com/96829724/165340852-b078c0a8-6396-483a-95a9-902fad7047d0.png">
+<img width="691" alt="Device_Req" src="">
 
 Our device:
 - Respect the privacy of users.
