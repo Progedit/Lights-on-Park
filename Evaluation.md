@@ -72,5 +72,6 @@ This architecture does not have any particular network constraint. We focused on
 * Time on Air (T<sub>Air</sub>): the time needed to a message to go from the board to the LoRa gateway.
 * Time of Cloud (T<sub>Cloud</sub>): the time from the LoRa gateway to the end-user.
 
+So to measure the time from the measurement to the moment where the data are available (and so the latency) we have to do the following calculation:
 
-
+T<sub>Ultrasonic</sub>+T<sub>Message</sub>+T<sub>Air</sub>+T<sub>Cloud</sub>
