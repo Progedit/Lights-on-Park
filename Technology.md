@@ -48,3 +48,8 @@ For more details see here: https://lora-alliance.org/lorawan-for-developers/
 
 <b>The Things Network</b>: The Things Network is a global collaborative Internet of Things ecosystem that creates networks, devices and solutions using LoRaWAN.
 The Things Network runs The Things Stack Community Edition, which is a crowdsourced, open and decentralized LoRaWAN network. This network is a great way to get started testing devices, applications, and integrations, and get familiar with LoRaWAN.
+
+
+## Previous link
+
+[Here](https://github.com/Progedit/Lights-on-Parking/blob/main/2nd_Delivery/Technology.md) is possible to see the previous technology done in the second delivery.
