@@ -9,8 +9,16 @@ Lights on Parking is a project created to monitor the availability of parking sp
 As a starting point for the project we took into consideration one of the themes offered by the Open Impact platform, namely Urban Regeneration, specifically the section relating to Sustainable Transport. We believe that our idea can provide a “smart” solution to a problem that is certainly very present in a chaotic city like Rome, that of parking.
 
 ## The problem
-Nowadays to find a parking lot is a very big problem in the most of the cities: population of cities (and in particular in the big towns) is always growing up, and so the demand for available parking spaces is growing. The main problem is that the space in a town is limited and so the demand has exceeded the availability of parking lots, and so the research of a car parking free is very difficult. This problem has a big impact on the world under a lot of aspect: from the study conducted by INRIX in 2017, it is possible to see that this problem in UK causes a cost of £23.3 Billion a Year, and in particular for each citizen 44 hours wasted and £733 every year. So to find a parking lot is a big problem that has a big impact in the world.
-Tp know more about the research: https://inrix.com/press-releases/parking-pain-uk/
+Nowadays to find a parking lot is a very big problem in the most of the cities: population of cities (and in particular in the big towns) is always growing up, and so the demand for available parking spaces is growing. The main problem is that the space in a town is limited and so the demand has exceeded the availability of parking lots, and so the research of a car parking free is very difficult. This problem has a big impact on the world under a lot of aspect: from the study conducted by INRIX in 2017, it is possible to see that this problem in UK causes a cost of £23.3 Billion a Year, and in particular for each citizen 44 hours wasted and £733 every year.From another study conducted by IBM in 2011 across 20 major international cities are arised several important data:
+- Drivers in urban areas need nearly 20 minutes on average to find parking;
+- Between 30 to 45 percent of traffic in cities is caused by drivers looking for parking;
+- 60 percent of drivers reported giving up on finding parking at least once in the calendar year;
+- 27 percent of the drivers surveyed got into arguments with fellow drivers over parking spaces.
+So to find a parking lot is a big problem that has a big impact in the world.
+
+Tp know more about the researches: 
+- INRIX research (https://inrix.com/press-releases/parking-pain-uk/)
+- IBM research (https://www.prnewswire.com/news-releases/ibm-global-commuter-pain-survey-traffic-congestion-down-pain-way-up-129446188.html)  
 
 ## Study Area
 
