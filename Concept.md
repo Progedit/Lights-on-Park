@@ -38,11 +38,11 @@ However, for our university project we could not use this sensor because it is i
 
 Communication with the user takes place via a web page / app, which indicates the places available in a specific area.
 
-## Requirements
+## Goals
 
-We have extrapolated the following requirements from a google form that we have submit to a randoms people who lives in different places: a little city, a big city or a suburban area of a city. 
+We have extrapolated the following goals from a google form that we have submit to a randoms people who lives in different places: a little city, a big city or a suburban area of a city. 
 
-The requirements are:
+The goals are:
 
 - Possibility of giving the citizen a smart way to search for parking spaces.
 <img src="https://github.com/Progedit/Lights-on-Parking/blob/bb1fbd40e96d720277dd34dc4504d3e9a08ba36e/images/Questionnaire/applicazione.jpg" width=70% height=70%>
@@ -74,6 +74,7 @@ While this other graph looks like the search for a parking space, it can affect 
 
 <img src="https://github.com/Progedit/Lights-on-Parking/blob/c4b96af13ddb53fd79a76f0be98ec9ceda5aeb31/images/Questionnaire/puntualita.png" width=70% height=70%>
 
+##Requirements
 
 DEVICE REQUIREMENTS
 
