@@ -85,3 +85,5 @@ Let's see in detail the values of these parameters:
 So:
 
 T<sub>Ultrasonic</sub>+T<sub>Message</sub>+T<sub>Air</sub>+T<sub>Cloud</sub> = 1s+0.05s+0.08s+2s≃3s
+
+[Here](https://github.com/Progedit/Lights-on-Parking/blob/main/2nd_Delivery/Evaluation.md) is possible to see the previous evaluation done in the second delivery.
