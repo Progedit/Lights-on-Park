@@ -112,6 +112,8 @@ Our device:
 - It does not need frequent maintenance.
 - Not dangerous for pedestrians, cyclists, etc.
 
+Another important thing is that thanks to the device that we chose we avoid the cost of digging.
+
 
 
 
