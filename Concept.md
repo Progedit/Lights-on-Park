@@ -93,7 +93,7 @@ While this other graph looks like the search for a parking space, it can affect 
 
 In our system we have 5 mainly requirements that are:
 
-1. Space: parking lots;
+1. Space: any parking lots;
 2. Information: availability or occupancy;
 3. Individual: citiziens
 4. Time: real time;
