@@ -16,7 +16,7 @@ Nowadays to find a parking lot is a very big problem in the most of the cities: 
 - 27 percent of the drivers surveyed got into arguments with fellow drivers over parking spaces.
 So to find a parking lot is a big problem that has a big impact in the world.
 
-Tp know more about the researches: 
+To know more about the researches: 
 - INRIX research (https://inrix.com/press-releases/parking-pain-uk/)
 - IBM research (https://www.prnewswire.com/news-releases/ibm-global-commuter-pain-survey-traffic-congestion-down-pain-way-up-129446188.html)  
 
