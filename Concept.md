@@ -74,7 +74,8 @@ While this other graph looks like the search for a parking space, it can affect 
 
 <img src="https://github.com/Progedit/Lights-on-Parking/blob/c4b96af13ddb53fd79a76f0be98ec9ceda5aeb31/images/Questionnaire/puntualita.png" width=70% height=70%>
 
-##Requirements
+## Requirements
+
 
 DEVICE REQUIREMENTS
 
