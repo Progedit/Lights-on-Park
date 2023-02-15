@@ -66,7 +66,7 @@ We have choosen three specific cases:
 So in a real operating situation of the device, the battery life varies from a minimum of 482 days to a maximum of 675 days, against only 21 days if the device is constantly in run mode.
 
 ### Network usage
-This architecture does not have any particular network constraint. We focused on analysing the latency time between the measurement and the receiving the message. The time interval is composed by:
+In order to have a real time update we focused on analysing the latency time between the measurement and the receiving the message. The time interval is composed by:
 * Time of the Ultrasonic sensor (T<sub>Ultrasonic</sub>): the time needed to compute the measurements of the current state.
 * Time send Message (T<sub>Message</sub>): the time needed to send a message.
 * Time on Air (T<sub>Air</sub>): the time needed to a message to go from the board to the LoRa gateway.
