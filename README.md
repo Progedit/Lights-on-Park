@@ -9,7 +9,14 @@
 
 ## Brief Description
 With our group project we are focused about the problems of the cities and in particular about how we can resolve these problems with the help of Internet of Things in order to realize a smart city, so it is connected to Open Impact in the scope of “Urban Regeneration”.
-The scope of the project is give to citizens the possibility to take informations about free parking lots. 
+The scope of the project is give to citizens the possibility to take informations about free parking lots.
+
+## Prototype
+<img src="https://github.com/Progedit/Lights-on-Parking/blob/1c8108923d1eb99da6c9eff73ee257d3ea38cfc4/images/prototype1.jpeg" width=30% height=30%>                 
+
+<img src="https://github.com/Progedit/Lights-on-Parking/blob/1c8108923d1eb99da6c9eff73ee257d3ea38cfc4/images/prototype2.jpeg" width=35% height=35%>
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
