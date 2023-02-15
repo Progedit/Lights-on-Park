@@ -76,6 +76,13 @@ While this other graph looks like the search for a parking space, it can affect 
 
 ## Requirements
 
+In our system we have 5 mainly requirements that are:
+
+1. Space: public parking lots;
+2. Information: availability or occupancy;
+3. Individual: real time;
+4. Energy consumptions: lower as possible.
+
 
 DEVICE REQUIREMENTS
 
