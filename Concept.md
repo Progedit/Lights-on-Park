@@ -114,7 +114,9 @@ Our device:
 
 Another important thing is that thanks to the device that we chose we avoid the cost of digging.
 
+## Previous link
 
+[Here](https://github.com/Progedit/Lights-on-Parking/blob/main/2nd_Delivery/Concept.md) is possible to see the previous concept done in the second delivery.
 
 
 
