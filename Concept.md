@@ -95,8 +95,9 @@ In our system we have 5 mainly requirements that are:
 
 1. Space: public parking lots;
 2. Information: availability or occupancy;
-3. Individual: real time;
-4. Energy consumptions: lower as possible.
+3. Individual: citiziens
+4. Time: real time;
+5. Energy consumptions: lower as possible.
 
 
 
