@@ -43,3 +43,4 @@ The scope of the project is give to citizens the possibility to take information
 ## Previous Delivery
 - [1st Delivery](./1st_Delivery/)
 - [2nd Delivery](./2nd_Delivery)
+
