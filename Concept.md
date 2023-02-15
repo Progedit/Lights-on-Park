@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Lights on Parking is a project created to monitor the availability of parking spaces and consequently, if they are free, indicate them to the citizen through an app / web page, optimizing the traffic of those looking for a lot.
+Lights on Parking is a project created to monitor the availability of parking spaces and consequently, if they are free, indicate them to the citizen through an app / web page, optimizing the traffic of those looking for a lot.  
 
 ## Open Impact 
 
@@ -35,7 +35,7 @@ We have chosen to focus our studio in a very specific area, familiar to us, Via 
 
 Our device revolves ideally around the following sensor:
 
-<img src="https://github.com/Progedit/Lights-on-Parking/blob/68f292d0ec77c6a3fbe19e27bb7182b3ca373e31/images/sensor.png" width=40% height=40%>
+<img src="https://github.com/Progedit/Lights-on-Parking/blob/68f292d0ec77c6a3fbe19e27bb7182b3ca373e31/images/sensor.png" width=40% height=40%>  <img src="https://github.com/Progedit/Lights-on-Parking/blob/2e80da2308fffe0eaf67b93b676d59b5da38ad9c/images/img.jpeg" width=40% height=40%>
 
 This sensor, once positioned and calibrated, allows to detect the presence of vehicles parked in the car park.
 The technology used is able to record the variation of the earth's magnetic field in a solenoid induced by the presence of the ferrous mass of the vehicle. The requirements of this sensor are the following:
@@ -69,7 +69,7 @@ This graphic is relative to a request of an new app that give the possibility to
 In this graph, roughly 50% of users spend between 30 minutes and an hour searching for parking,while 25% take more than an hour and the remaining less than 30 minutes. 
 
 
-- The reduction of traffic and congestion. 
+- The reduction of traffic and congestion.
 
 - Lower consumption of fuel and therefore the reduction of ambiental pollution but also the lower waste of money on fuel.
 
@@ -112,9 +112,7 @@ Our device:
 - It does not need frequent maintenance.
 - Not dangerous for pedestrians, cyclists, etc.
 
-The following graph shows that most users prefer an invisible device over a visible one.
 
-<img src="https://github.com/Progedit/Lights-on-Parking/blob/0f681f2ffee9e49596297f9472da8affa0392950/images/Questionnaire/tipologia_dispositivo.png" width=70% height=70%>
 
 
 
