@@ -9,7 +9,7 @@
 
 ## Brief Description
 With our group project we are focused about the problems of the cities and in particular about how we can resolve these problems with the help of Internet of Things in order to realize a smart city, so it is connected to Open Impact in the scope of “Urban Regeneration”.
-The scope of the project is give to citizens the possibility to take informations about free parking lots.
+The scope of the project is give to citizens the possibility to take informations about free parking lots. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
