@@ -69,7 +69,7 @@ This graphic is relative to a request of an new app that give the possibility to
 In this graph, roughly 50% of users spend between 30 minutes and an hour searching for parking,while 25% take more than an hour and the remaining less than 30 minutes. 
 
 
-- The reduction of traffic and congestion.
+- The reduction of traffic and congestion. 
 
 - Lower consumption of fuel and therefore the reduction of ambiental pollution but also the lower waste of money on fuel.
 
