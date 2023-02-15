@@ -34,8 +34,8 @@ The scope of the project is give to citizens the possibility to take information
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Video Resources
-- [Presentation Video (10 minutes)](https://github.com/Progedit/Lights-on-Parking/blob/main/ToDo.md)
-- [Demo Video](https://www.youtube.com/watch?v=2jt28GkLYO0)
+- [Presentation Video](https://www.youtube.com/watch?v=3BD7pq3kWVI&t=2s)
+- [Demo Video](https://www.youtube.com/watch?v=lWzVoRLGl0k)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
