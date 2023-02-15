@@ -17,8 +17,14 @@ Nowadays to find a parking lot is a very big problem in the most of the cities: 
 So to find a parking lot is a big problem that has a big impact in the world.
 
 To know more about the researches: 
-- INRIX research (https://inrix.com/press-releases/parking-pain-uk/)
-- IBM research (https://www.prnewswire.com/news-releases/ibm-global-commuter-pain-survey-traffic-congestion-down-pain-way-up-129446188.html)  
+- INRIX research (https://inrix.com/press-releases/parking-pain-uk/);
+- IBM research (https://www.prnewswire.com/news-releases/ibm-global-commuter-pain-survey-traffic-congestion-down-pain-way-up-129446188.html).
+
+## Existing approaches
+There are other existing approaches that try to resolve the parking lot problem, we found three types of interesting approaches:
+- PAYBYSKY – PARKING BY SATELLITE (http://paybysky.com/);
+<img width="407" alt="image" src="https://user-images.githubusercontent.com/96829724/218976637-c27018b6-2f85-4669-96f1-9af564aa501d.png">
+
 
 ## Study Area
 
