@@ -84,6 +84,7 @@ In our system we have 5 mainly requirements that are:
 4. Energy consumptions: lower as possible.
 
 
+
 DEVICE REQUIREMENTS
 
 In the diagram below we show how our device is better than the other three, that are a pole installed on the sidewalk with an ultrasonic sensor, a top video camera installed on the light pole and a sensor under the asphalt.
